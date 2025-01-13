@@ -4,6 +4,7 @@ The following were some of the key instructions for the task:
 
 -Research best practices for landing pages, focusing on CTA
 (Call to Action) placement, colour schemes, and content layout.
+
 -Develop wireframes and high-fidelity designs for the landing page.
 -Incorporate elements like hero images, testimonials, and
 product features to optimize for conversions.

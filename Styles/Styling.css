@@ -1,4 +1,128 @@
 * {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-color: #16590B;
+    background-color: #141111;
+    background-color: #041638;
+    background-image: url(/Images/Freq\ Music\ Waves\ 1.png);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
+.logo1 {
+ color: #E81313;
+}
+.subText1 {
+    color: #E81313;
+    font-family: "Italianno", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 35px;
+      
+}
+.logo2 {
+    color: #EF5903;
+}
+.subText2 {
+    color: #EF5903;
+    font-family: "Italianno", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 35px;
+    justify-content: center;
+}
+.logo3 {
+    color: #EBC801;
+}
+.subText3 {
+    color: #EBC801;
+    font-family: "Italianno", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 35px;
+    justify-content: end;
+}
+.logo-Container1 {
+    display: flex;
+    gap: 15px;
+    top: 2%;
+    left: 30%;
+}
+.logo-Container2 {
+    display: flex;
+    gap: 15px;
+    top: 2%;
+    left: 20%;
+}
+.navBar-Container {
+    background-color: #141111;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    gap: 30px;
+    border-radius: 70px;
+    width: 600px;
+    height: 70px;
+    margin-bottom: 170px;
+    top: 6%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+}
+#Link1, #Link2 , #Link3 , #Link4, #Search {
+    background-color: #141111;
+    color: #FFFFF0;
+}
+.navBar-SmallContainer {
+    background-color: #141111;
+    display: flex;
+    justify-content: right;
+    margin: 0;
+    gap: 20px;
+    border-radius: 60px;
+    width: 390px;
+    height: 70px;
+    margin-bottom: 170px;
+    top: 1%;
+    right: 1%;
+    position: absolute;
+}
+#Search {
+    width: 60px;
+    height: 60px;
+    left: 5%;
+}
+#SignUp {
+    width: 130px;
+    height: 45px;
+    padding: 10px 20px;
+    margin-top: 10px;
+    background-color: #2503FD;
+    color: ivory;
+    font-size: 20px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+#SignUp:hover{
+    background-color:#035603;
+}
+#LogIn {
+    width: 130px;
+    height: 45px;
+    padding: 10px 20px;
+    margin-top: 10px;
+    background-color: #420563;
+    color: ivory;
+    font-size: 20px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+#LogIn:hover {
+    background-color:#035603;
+}
+
+

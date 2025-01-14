@@ -9,4 +9,12 @@ The following were some of the key instructions for the task:
 -Incorporate elements like hero images, testimonials, and
 product features to optimize for conversions.
 
+
+My Approach :
+To begin the design process, I first decided on the product. 
+I chose to create a landing page for a pair of hi-fi wireless headphones. 
+These headphones are sold by Nirvana Music Store, an online platform that specializes in music and audio products, offering customers extraordinary listening experiences. 
+As headphones are the store's primary product, they became the focus of this project.
+Feel free to explore the overall project!
+
 As a bonus, I decided to add an actual webpage for my product. Upon loading this webpage, the landing page made using basic HTML, CSS & JavaScript would show.

@@ -17,4 +17,4 @@ These headphones are sold by Nirvana Music Store, an online platform that specia
 As headphones are the store's primary product, they became the focus of this project.
 Feel free to explore the overall project!
 
-As a bonus, I decided to add an actual webpage for my product. Upon loading this webpage, the landing page made using basic HTML & CSS would show.
+As a bonus, I decided to add an actual webpage for my product. Upon loading this webpage, the landing page made using HTML & CSS would show.

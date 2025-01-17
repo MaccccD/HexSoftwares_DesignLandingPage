@@ -192,11 +192,11 @@ p {
     cursor: pointer;
     transition: background-color 0.3s;
 }
-#OrderBtn {
+#AirpodsBtn {
     width: 130px;
     height: 45px;
     margin-top: 30px;
-    background-color: #0BC90B;
+    background-color: #420563;
     color: ivory;
     font-size: 15px;
     border: none;
@@ -207,7 +207,7 @@ p {
 #CartBtn:hover {
     background-color: #035603;
 }
-#OrderBtn:hover{
+#AirpodsBtn:hover{
     background-color:#035603;
 }
 .features {

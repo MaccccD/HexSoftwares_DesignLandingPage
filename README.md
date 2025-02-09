@@ -18,3 +18,6 @@ As headphones are the store's primary product, they became the focus of this pro
 Feel free to explore the overall project!
 
 As a bonus, I decided to add an actual webpage for my product. Upon loading this webpage, the landing page made using HTML & CSS would show.
+
+Prototype showcase:
+https://www.figma.com/proto/CZCTkotx2bKVdzc8V3PQ7Z?node-id=1-3&t=4LHjD8iVVr1AKgqE-6 
